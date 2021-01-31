@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="🐊RAMLAN🐊" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🐊BAMBANG🐊" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐋𝐀𝐍𝐍 𝐈𝐃
+### THANKS FOR BTR ID
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -55,7 +55,7 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > pkg install mc
 > pkg install git
 > pkg install bash
-> git clone https://github.com/Ramlan666/sadbot
+> git clone https://github.com/B4MBANG-94NT3NG/sadbot
 > cd sadbot
 > bash install.sh
 > node index.js
@@ -66,23 +66,23 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🐊Ramlan🐊`](https://saweria.co/ramlangans)
+* [`Donasi 🐊Bambang🐊`](Dana 082313021398)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
+* [`Youtube Admin`](https://youtube.com/c/BTRChannel)
+* [`Instagram Admin`](https://instagram.com/Sadboy.edtz)
+* [`WhatsApp Admin `](https://wa.me/+6282313021398)
+* [`Group WhatsApp `](https://chat.whatsapp.com/De2beA7uZt5HCXKKGjA1XP)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`Clasher Indonesia`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`ARIS ID`](https://github.com/A187ID/AR15BOT)
+* [`BTR ID`](https://github.com/A187ID/AR15BOT)
 
-* [`Mrfzvx12`](https://github.com/mrfzvx12/termux-whatsapp-bot)
+* [`Orang Tuaku`](https://github.com/mrfzvx12/termux-whatsapp-bot)
 
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+* [`ALLAH SWT`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
