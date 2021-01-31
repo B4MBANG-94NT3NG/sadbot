@@ -10,7 +10,7 @@ const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
 /*
-HALLO I'M RAMLAN :)
+HALLO I'M BAMBANG :)
 SCRIPT HANYA UNTUK SAYA BELAJAR
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
@@ -18,22 +18,22 @@ const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
-const BotName = 'SADBOTZ'; // GANTI PAKE NAMA BOT LU
-const wa = 'https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
-const ow = 'RAMLAN'; // GANTI PAKE NAMA MU
-const nomorowner = '085559240360'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
-const ovo = '0855-5924-0360'; // GANTI PAKE NOMOR OVO LU
-const pulsa = '0812-1444-1027'; // GANTI PAKE NOMOR PULSA LU
-const dana = '0855-5924-0360'; // GANTI PAKE NOMOR DANA LU
-const gopay = '0855-5924-0360'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
-const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
+const BotName = 'SADBOY BOTZ'; // GANTI PAKE NAMA BOT LU
+const wa = 'https://chat.whatsapp.com/De2beA7uZt5HCXKKGjA1XP'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
+const ow = 'BAMBANG Gans '; // GANTI PAKE NAMA MU
+const nomorowner = '0895412691100'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
+const ovo = '0895-4126-91100'; // GANTI PAKE NOMOR OVO LU
+const pulsa = '0823-1302-1398'; // GANTI PAKE NOMOR PULSA LU
+const dana = '0823-1302-1398'; // GANTI PAKE NOMOR DANA LU
+const gopay = '0895-4126-91100'; // GANTI PAKE NOMOR GOPAY LU
+const instagram = 'http://www.instagram.com/Sadboy.Edtz'; // GANTI IG LU
+const aktif = 'TERSERAH GW AJG'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
-  + 'FN:RAMLAN GANS\n' // GANTI PAKE NAMA MU
+  + 'FN:BAMBANG GANS\n' // GANTI PAKE NAMA MU
   + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
-  + 'END:VCARD' // THANKS TO LANN ID
+  + 'TEL;type=CELL;type=VOICE;waid=6282313021398:+62 823-1302-1398\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'END:VCAR.D' // THANKS TO BTR ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
   {
@@ -106,7 +106,7 @@ conn.on('message-new', async (m) => {
   let imageMessage = m.message.imageMessage;
   console.log(`[ ${moment().format("HH:mm:ss")} ] => Nomor: [ ${id.split("@s.whatsapp.net")[0]} ] => ${text}`);
 
-/*]===> AUTO RESPON LANN ID <===[*/
+/*]===> AUTO RESPON BTR ID <===[*/
  if (text == 'assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
 }
@@ -405,9 +405,9 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 ╠═══════════════════════════
 ║➣ *JIKA MINAT IKLAN DIATAS*
 ║➣ *HARAP HUBUNGI NOMOR DIBAWAH :*
-║➣ *☎️ WA : *085559240360*
+║➣ *☎️ WA : *0895412691100*
 
-🔰 -----[ *POWERED BY LANN ID* ]----- 🔰`,
+🔰 -----[ *POWERED BY BTR ID* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text, { quoted: m })
@@ -1820,12 +1820,12 @@ if (text.includes('!apitext')){
 
 /*
 ]=====> Thanks To <=====[
-> RAMLAN ID
-> REVOER ID
-> ARIS ID
+> BTR ID
+> Laskar ID
+> Gans ID
 > VHTEAR
-> TOBZ
-> MHANKBARBAR
+> TOGX
+> MHANKBAREX
 > VINZ
 > MRFZVX12
 > All creator bot WhatsApp
